@@ -11,6 +11,7 @@ Added crop and rotate features of images using uCrop library before get processe
   <img width="200" height="430" src="main.png">
   <img width="200" height="430" src="gallery.png">
   <img width="200" height="430" src="ucrop.png">
+  <br><br>
   <img width="200" height="430" src="main-image.png">
   <img width="200" height="430" src="result-noncancer.png">
   <img width="200" height="430" src="result-cancer.png">
